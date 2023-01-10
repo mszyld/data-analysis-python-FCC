@@ -3,5 +3,6 @@ The five projects that I made for the freeCodeCamp "Data Analysis with Python" c
 
 - Mean-Variance-Standard Deviation Calculator
 - Demographic Data Analyzer
+- Medical Data Visualizer
 
 (In progress)

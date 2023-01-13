@@ -5,5 +5,4 @@ The five projects that I made for the freeCodeCamp "Data Analysis with Python" c
 - Demographic Data Analyzer
 - Medical Data Visualizer
 - Page View Time Series Visualizer
-
-(In progress)
+- Sea Level Predictor
